@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_24week/static/css/main.b5c67f55.css",
+    "main.js": "/React_24week/static/js/main.862f427d.js",
+    "static/js/787.374e54a0.chunk.js": "/React_24week/static/js/787.374e54a0.chunk.js",
+    "index.html": "/React_24week/index.html",
+    "main.b5c67f55.css.map": "/React_24week/static/css/main.b5c67f55.css.map",
+    "main.862f427d.js.map": "/React_24week/static/js/main.862f427d.js.map",
+    "787.374e54a0.chunk.js.map": "/React_24week/static/js/787.374e54a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5c67f55.css",
+    "static/js/main.862f427d.js"
+  ]
+}
